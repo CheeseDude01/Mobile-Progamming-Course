@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # flutter_application_1
 
 A new Flutter project.
@@ -19,4 +18,4 @@ samples, guidance on mobile development, and a full API reference.
 
 # Mobile-Progamming-Course
 Repository for Mobile Programming course
->>>>>>> 79d8efec0ba4198ea05d4ebf92634737e094663d
+
