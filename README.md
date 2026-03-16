@@ -1,6 +1,26 @@
-# flutter_application_1
+# Mobile-Progamming-Course
+Repository for Mobile Programming course
 
-A new Flutter project.
+| Name           | NRP        | 
+| ---            | ---        | 
+| Alfa Radithya Fanany | 5025231008 |
+
+## Widgets Explanation
+
+    MaterialApp
+       |
+    Scaffold
+     |       |
+    AppBar   Body
+     |        |
+    Text     Center
+               |
+           CounterWidget
+               |
+             Column
+        /        |        |        \
+    Image   Question   Category   Counter
+    Container Container Container Container
 
 ## Getting Started
 
@@ -16,6 +36,4 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-# Mobile-Progamming-Course
-Repository for Mobile Programming course
 
